@@ -1,6 +1,7 @@
 # Makerspace-Projects
  These are the files which were made for my local Makerspace, either personal projects or projects relating to Makerspace assets.
 
+===========
 
 ### Personal Projects
 
@@ -9,8 +10,9 @@ Multi-layer Kill Team incorporating an urban setting (like Necromunda) and an un
  
 #### RFID Jukebox
 RFID jukebox which utilses ESPHome and Home Assistant to stream music in response to RFID cards.
- 
- 
+
+===========
+
 ### Makerspace Projects
 
 #### CNC Machine
