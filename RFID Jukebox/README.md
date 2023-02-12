@@ -24,4 +24,6 @@ The TFT display on the Lillygo board is very clear and bright with easy visabili
 
 ## Pictures / Video
 
-[![RFID Jukebox](https://user-images.githubusercontent.com/68851601/218323503-29c4ed33-b1b4-4bc6-b1c5-d3aa8cf0d70a.png)
+[![RFID Jukebox](https://user-images.githubusercontent.com/68851601/218323503-29c4ed33-b1b4-4bc6-b1c5-d3aa8cf0d70a.png)(https://www.youtube.com/watch?v=FfvNjQdFL8A)
+
+RFID Jukebox: [https://user-images.githubusercontent.com/68851601/218323503-29c4ed33-b1b4-4bc6-b1c5-d3aa8cf0d70a.png]: https://www.youtube.com/watch?v=FfvNjQdFL8A
