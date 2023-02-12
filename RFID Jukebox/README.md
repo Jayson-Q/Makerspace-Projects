@@ -1,12 +1,14 @@
-# ESPHome-SpotifyNowPlaying
+# RFID Jukebox
 
 ## Idea
-Make a Music Jukebox which integrates with Home Assistant using ESPHome and off-the-shelf components. This is intended as a Christmas present for my wife who stated she had never received a mixtape when she was younger.
+A RFID jukebox made for a Christmas present for my wife. She had mentioned she had never received a mixtape when she was younger.
 
+What started as a mixtape ended as a jukebox and a whole lot of albums and mixtapes!
 
 ## Parts used
-
+- Custom Jukebox
 - LilyGO TTGO T-Display ESP32
+- Adonno Tag Reader (https://github.com/adonno/tagreader)
 
 ## Coding
 
@@ -22,6 +24,6 @@ The TFT display on the Lillygo board is very clear and bright with easy visabili
 
 ## Pictures / Video
 
-![SpotifyNowPlaying](https://user-images.githubusercontent.com/68851601/201924545-12c760c9-283e-4254-9228-4fdef07ab300.png)
+![RFID Jukebox](https://www.youtube.com/watch?v=FfvNjQdFL8A)
 
 
