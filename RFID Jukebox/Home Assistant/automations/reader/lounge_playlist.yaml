@@ -1,0 +1,7 @@
+alias: Play Music Tag
+description: ""
+use_blueprint:
+  path: luka6000/PlayMusicTag.yaml
+  input:
+    reader_id: 56c9d1e06a4459278babf5b7452d22bd
+    player: media_player.mass_living_room

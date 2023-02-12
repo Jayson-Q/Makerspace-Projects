@@ -1,0 +1,7 @@
+alias: Play Music Tag
+description: ""
+use_blueprint:
+  path: luka6000/PlayMusicTag.yaml
+  input:
+    reader_id: 6927dbd35e3ea96c1f69f75dc66f5db1
+    player: media_player.spotify_play
