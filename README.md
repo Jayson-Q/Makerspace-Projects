@@ -8,7 +8,7 @@
 #### Kill Team Game Board
 Multi-layer Kill Team incorporating an urban setting (like Necromunda) and an underground level (like Space Hulk) allows for multi-vector and immersive gameplay.
  
-#### RFID Jukebox
+#### [RFID Jukebox](https://github.com/Jayson-Q/Makerspace-Projects/tree/main/RFID%20Jukebox)
 RFID jukebox which utilses ESPHome and Home Assistant to stream music in response to RFID cards.
 
 ===========
