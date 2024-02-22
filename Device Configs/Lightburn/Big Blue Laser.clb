@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnLibrary>
+    <Material name="Acrylic Sheet">
+        <Entry Thickness="5.0000" Desc="5mm Acrylic Cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic Sheet/5.0000/5mm Acrylic Cut"/>
+                <maxPower Value="80"/>
+                <maxPower2 Value="20"/>
+                <speed Value="8"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.1000" Desc="3mm Clear Acrylic Sheet - Cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic Sheet/3.1000/3mm Clear Acrylic Sheet - Cut"/>
+                <maxPower Value="80"/>
+                <maxPower2 Value="20"/>
+                <speed Value="25"/>
+                <kerf Value="0.095"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="9.5000" Desc="_copy">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic Sheet/9.5000/_copy"/>
+                <maxPower Value="80"/>
+                <maxPower2 Value="20"/>
+                <speed Value="8"/>
+                <numPasses Value="2"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.1000" Desc="3mm Clear Acrylic Sheet - Engrave">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Acrylic Sheet/3.1000/3mm Clear Acrylic Sheet - Engrave"/>
+                <maxPower Value="20"/>
+                <maxPower2 Value="20"/>
+                <speed Value="200"/>
+                <kerf Value="0.095"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="EVA foam">
+        <Entry Thickness="10.3000" Desc="EVA Foam cut (pattern side up)">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="EVA foam/10.3000/EVA Foam cut (pattern side up)"/>
+                <minPower Value="10"/>
+                <maxPower Value="50"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <zOffset Value="5"/>
+                <numPasses Value="2"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="5.5000" Desc="EVA Foam cut (pattern side down)">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="EVA foam/5.5000/EVA Foam cut (pattern side down)"/>
+                <minPower Value="10"/>
+                <maxPower Value="30"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <kerf Value="0.4"/>
+                <zOffset Value="2.5"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Laser Plywood">
+        <Entry Thickness="3.3000" Desc="3mm Laser Ply Cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Laser Plywood/3.3000/3mm Laser Ply Cut"/>
+                <maxPower Value="80"/>
+                <maxPower2 Value="20"/>
+                <speed Value="40"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="3.3000" Desc="Plywood Engrave">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Laser Plywood/3.3000/Plywood Engrave"/>
+                <minPower Value="15"/>
+                <maxPower Value="15"/>
+                <maxPower2 Value="20"/>
+                <speed Value="400"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Leather (1mm)">
+        <Entry Thickness="22.4000" Desc="1mm Veg treated leather, on honeycomb bed">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Leather (1mm)/22.4000/1mm Veg treated leather, on honeycomb bed"/>
+                <minPower Value="10"/>
+                <maxPower Value="60"/>
+                <maxPower2 Value="20"/>
+                <speed Value="100"/>
+                <kerf Value="0.05"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Wickes Plywood">
+        <Entry Thickness="5.5000" Desc="Wickes Hardwood Plywood -cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Wickes Plywood/5.5000/Wickes Hardwood Plywood -cut"/>
+                <maxPower Value="80"/>
+                <maxPower2 Value="20"/>
+                <speed Value="20"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="9.0000" Desc="9mm Wickes Plywood">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Wickes Plywood/9.0000/9mm Wickes Plywood"/>
+                <maxPower Value="80"/>
+                <maxPower2 Value="20"/>
+                <speed Value="4"/>
+                <kerf Value="0.095"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Worktop">
+        <Entry Thickness="40.9000" Desc="Wooden Kitchen Worktop-3mm engrave">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Worktop/40.9000/Wooden Kitchen Worktop-3mm engrave"/>
+                <maxPower Value="80"/>
+                <maxPower2 Value="20"/>
+                <speed Value="400"/>
+                <numPasses Value="2"/>
+                <zPerPass Value="1.5"/>
+                <dotTime Value="1"/>
+                <crossHatch Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="40.9000" Desc="Cross Hatch">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Worktop/40.9000/Cross Hatch"/>
+                <maxPower Value="80"/>
+                <maxPower2 Value="20"/>
+                <speed Value="400"/>
+                <dotTime Value="1"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+                <SubLayer type="Scan" index="1">
+                    <maxPower Value="80"/>
+                    <maxPower2 Value="20"/>
+                    <speed Value="400"/>
+                    <zOffset Value="1.5"/>
+                    <dotTime Value="1"/>
+                    <angle Value="90"/>
+                </SubLayer>
+            </CutSetting>
+        </Entry>
+    </Material>
+</LightBurnLibrary>
